@@ -1,0 +1,5 @@
+pandas
+numpy
+PyMuPDF
+google-cloud-vision
+Pillow
